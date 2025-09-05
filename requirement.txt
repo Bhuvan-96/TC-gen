@@ -1,7 +1,8 @@
 streamlit
 pandas
-generativeai
+google-generativeai
 io
 re
+
 
 
