@@ -1,5 +1,6 @@
 streamlit
 pandas
-google-generativeai==0.3.2
-io
-re
+google.generativeai
+plotly.express
+openpyxl
+
